@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/increment-decrement-app/static/css/main.ac6b834e.css",
+    "main.js": "/increment-decrement-app/static/js/main.3f8ce17b.js",
+    "static/js/453.d341fd9a.chunk.js": "/increment-decrement-app/static/js/453.d341fd9a.chunk.js",
+    "index.html": "/increment-decrement-app/index.html",
+    "main.ac6b834e.css.map": "/increment-decrement-app/static/css/main.ac6b834e.css.map",
+    "main.3f8ce17b.js.map": "/increment-decrement-app/static/js/main.3f8ce17b.js.map",
+    "453.d341fd9a.chunk.js.map": "/increment-decrement-app/static/js/453.d341fd9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac6b834e.css",
+    "static/js/main.3f8ce17b.js"
+  ]
+}
